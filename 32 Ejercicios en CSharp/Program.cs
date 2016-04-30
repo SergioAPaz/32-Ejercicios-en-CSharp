@@ -10,6 +10,12 @@ namespace _32_Ejercicios_en_CSharp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Ejercicio que imprime los numeros del 1 al 100 \n");
+            for (int i = 0; i <= 100; i++)
+            {
+                Console.WriteLine(i);
+            }
+            Console.ReadKey();
         }
     }
 }

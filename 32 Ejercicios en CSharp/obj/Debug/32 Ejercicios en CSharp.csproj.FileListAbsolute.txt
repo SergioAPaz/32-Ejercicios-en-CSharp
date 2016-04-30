@@ -1,1 +1,6 @@
 F:\Mis Archivos\Software projects\C#\32 Ejercicios en C#\32 Ejercicios en CSharp\32 Ejercicios en CSharp\bin\Debug\32 Ejercicios en CSharp.exe.config
+F:\Mis Archivos\Software projects\C#\32 Ejercicios en C#\32 Ejercicios en CSharp\32 Ejercicios en CSharp\bin\Debug\32 Ejercicios en CSharp.exe
+F:\Mis Archivos\Software projects\C#\32 Ejercicios en C#\32 Ejercicios en CSharp\32 Ejercicios en CSharp\bin\Debug\32 Ejercicios en CSharp.pdb
+F:\Mis Archivos\Software projects\C#\32 Ejercicios en C#\32 Ejercicios en CSharp\32 Ejercicios en CSharp\obj\Debug\32 Ejercicios en CSharp.csprojResolveAssemblyReference.cache
+F:\Mis Archivos\Software projects\C#\32 Ejercicios en C#\32 Ejercicios en CSharp\32 Ejercicios en CSharp\obj\Debug\32 Ejercicios en CSharp.exe
+F:\Mis Archivos\Software projects\C#\32 Ejercicios en C#\32 Ejercicios en CSharp\32 Ejercicios en CSharp\obj\Debug\32 Ejercicios en CSharp.pdb
