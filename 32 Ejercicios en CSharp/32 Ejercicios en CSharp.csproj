@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>_32_Ejercicios_en_CSharp.Ejercicio4</StartupObject>
+    <StartupObject>_32_Ejercicios_en_CSharp.Ejercicio6</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -51,6 +51,8 @@
     <Compile Include="Ejercicio2.cs" />
     <Compile Include="Ejercicio3.cs" />
     <Compile Include="Ejercicio1.cs" />
+    <Compile Include="Ejercicio5.cs" />
+    <Compile Include="Ejercicio6.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
