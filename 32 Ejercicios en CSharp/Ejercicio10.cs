@@ -9,7 +9,7 @@ namespace _32_Ejercicios_en_CSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Introducir un numero por teclado y que nos diga si es paro impar: \n");
+            Console.WriteLine("Introducir un numero por teclado y que nos diga si es par o impar: \n");
 
             String Respuesta = "s";
 

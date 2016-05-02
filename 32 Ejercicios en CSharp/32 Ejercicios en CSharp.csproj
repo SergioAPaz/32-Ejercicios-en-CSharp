@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>_32_Ejercicios_en_CSharp.Ejercicio11</StartupObject>
+    <StartupObject>_32_Ejercicios_en_CSharp.Ejercicio12</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,6 +49,7 @@
   <ItemGroup>
     <Compile Include="Ejercicio10.cs" />
     <Compile Include="Ejercicio11.cs" />
+    <Compile Include="Ejercicio12.cs" />
     <Compile Include="Ejercicio9.cs" />
     <Compile Include="Ejercicio4.cs" />
     <Compile Include="Ejercicio2.cs" />
