@@ -26,16 +26,22 @@ namespace _32_Ejercicios_en_CSharp
             }
             Console.WriteLine("\nLa lista de numeros fue: ");
             int Mayor=0;
+            int Menor = 999999999;
             for (int x = 0; x < 4; x++)
             {
                 if (numeros[x]>Mayor)
                 {
                     Mayor = numeros[x];
                 }
+                if (numeros[x] < Menor)
+                {
+                    Menor = numeros[x];
+                }
                 Console.WriteLine("{0}",numeros[x]);
             }
 
             Console.WriteLine("\nEl mayor de la lista es: {0}",Mayor);
+            Console.WriteLine("\nEl menor de la lista es: {0}", Menor);
             Console.ReadKey();
         }
     }
