@@ -36,7 +36,7 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>_32_Ejercicios_en_CSharp.Ejercicio15</StartupObject>
+    <StartupObject>_32_Ejercicios_en_CSharp.Ejercicio16</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Ejercicio16.cs" />
     <Compile Include="Ejercicio10.cs" />
     <Compile Include="Ejercicio11.cs" />
     <Compile Include="Ejercicio12.cs" />
