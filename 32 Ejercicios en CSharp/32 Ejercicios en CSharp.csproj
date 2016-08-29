@@ -36,7 +36,7 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>_32_Ejercicios_en_CSharp.Ejercicio21</StartupObject>
+    <StartupObject>_32_Ejercicios_en_CSharp.Ejercicio38</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ejercicio26.cs" />
     <Compile Include="Ejercicio19.cs" />
     <Compile Include="Ejercicio17.cs" />
     <Compile Include="Ejercicio16.cs" />
@@ -61,6 +62,22 @@
     <Compile Include="Ejercicio18.cs" />
     <Compile Include="Ejercicio20.cs" />
     <Compile Include="Ejercicio21.cs" />
+    <Compile Include="Ejercicio22.cs" />
+    <Compile Include="Ejercicio23.cs" />
+    <Compile Include="Ejercicio24.cs" />
+    <Compile Include="Ejercicio25.cs" />
+    <Compile Include="Ejercicio27.cs" />
+    <Compile Include="Ejercicio28.cs" />
+    <Compile Include="Ejercicio29.cs" />
+    <Compile Include="Ejercicio30.cs" />
+    <Compile Include="Ejercicio31.cs" />
+    <Compile Include="Ejercicio32.cs" />
+    <Compile Include="Ejercicio33.cs" />
+    <Compile Include="Ejercicio34.cs" />
+    <Compile Include="Ejercicio35.cs" />
+    <Compile Include="Ejercicio36.cs" />
+    <Compile Include="Ejercicio37.cs" />
+    <Compile Include="Ejercicio38.cs" />
     <Compile Include="Ejercicio9.cs" />
     <Compile Include="Ejercicio4.cs" />
     <Compile Include="Ejercicio2.cs" />
